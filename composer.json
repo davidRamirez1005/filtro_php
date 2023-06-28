@@ -1,0 +1,21 @@
+{
+    "name": "apolt01-002/filtro_php",
+    "description": "filtro",
+    "type": "no",
+    "license": "LTS",
+    "autoload": {
+        "psr-4": {
+            "Apolt01002\\FiltroPhp\\": "scripts/"
+        }
+    },
+    "authors": [
+        {
+            "name": "davidRamirez1005",
+            "email": "ramirezjd1005@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
