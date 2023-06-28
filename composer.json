@@ -5,7 +5,7 @@
     "license": "LTS",
     "autoload": {
         "psr-4": {
-            "Apolt01002\\FiltroPhp\\": "scripts/"
+            "App\\": "scripts/db"
         }
     },
     "authors": [
